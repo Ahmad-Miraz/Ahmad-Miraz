@@ -1,6 +1,4 @@
 ### Hi there, I'm Md.Miraj Hossain -aka [ahmad-miraz]👋
-[![Website](<img align="left" alt="ahmad-miraz.github.io/" width="22px" src="https://ahmad-miraz.github.io/images/avatar.jpg" />)](https://ahmad-miraz.github.io/)
-[![Facebook Follow](<img align="left" alt="Ahmad Miraz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />)](https://www.facebook.com/ahmad.miraz.121/)
 ## I'm a Computer Science Student, A full Stack Web Developer!!
 - 🔭 I am developing my skills on Software Engineering to become a highly qualified Software Engineer 
 - 🌱 I’m currently learning everything 🤣
@@ -8,11 +6,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play outdoor games like Cricket,Football
 ### Connect with me:
-[<img align="left" alt="ahmad-miraz.github.io/" width="22px" src="https://ahmad-miraz.github.io/images/avatar.jpg" />][website]
-[<img align="left" alt="Ahmad Miraz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="@AhmadMiraz1| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ahmad Miraz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ahmad_miraz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ahmad-miraz.github.io/" width="22px" src="https://ahmad-miraz.github.io/images/avatar.jpg" />]
+[<img align="left" alt="Ahmad Miraz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
+[<img align="left" alt="@AhmadMiraz1| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="Ahmad Miraz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="ahmad_miraz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 <br />
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
