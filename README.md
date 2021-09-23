@@ -1,6 +1,6 @@
 ### Hi there, I'm Md.Miraj Hossain -aka [ahmad-miraz]👋
-[![Website](https://ahmad-miraz.github.io/)](https://ahmad-miraz.github.io/)
-[![Facebook Follow](https://www.facebook.com/ahmad.miraz.121/)](https://www.facebook.com/ahmad.miraz.121/)
+[![Website](<img align="left" alt="ahmad-miraz.github.io/" width="22px" src="https://ahmad-miraz.github.io/images/avatar.jpg" />)](https://ahmad-miraz.github.io/)
+[![Facebook Follow](<img align="left" alt="Ahmad Miraz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />)](https://www.facebook.com/ahmad.miraz.121/)
 ## I'm a Computer Science Student, A full Stack Web Developer!!
 - 🔭 I am developing my skills on Software Engineering to become a highly qualified Software Engineer 
 - 🌱 I’m currently learning everything 🤣
