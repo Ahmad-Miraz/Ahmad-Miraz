@@ -1,11 +1,11 @@
 ### Hi there, I'm Md Miraj Hossain - aka [Ahmad-Miraz] [ahmad-miraz.github.io] 👋
 
 ## I'm a Computer Science Student, A MERN Stack Web Developer!!
-- 🔭 I am developing my skills on Software Engineering to become a highly qualified Software Engineer 
+- 🔭 I am developing my skills on Software Engineering to become a highly qualified Software Engineer 😎
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play outdoor games like Cricket,Football
+- 👯 I’m looking to collaborate with other content creators 👀
+- 🥅 2022 Goals: Contribute more to Open Source projects 🙌
+- ⚡ Fun fact: I love to play outdoor games like Cricket,Football🥎
 ### Connect with me:
 [<img align="left" alt="Ahmad Miraz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
