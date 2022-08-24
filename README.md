@@ -1,6 +1,6 @@
-### Hi there, I'm MD.Miraj Hossain - aka [ahmad-miraz][website] 👋
+### Hi there, I'm MD.Miraj Hossain - ahmad-miraz.github.io 👋
 
-## I'm a Computer Science Student, A full Stack Web Developer!!
+## I'm a Computer Science Student, A MERN Stack Web Developer!!
 - 🔭 I am developing my skills on Software Engineering to become a highly qualified Software Engineer 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
