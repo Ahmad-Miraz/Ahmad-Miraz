@@ -29,7 +29,7 @@
 [facebook]:https://www.facebook.com/ahmad.miraz.121/
 [twitter]: https://twitter.com/AhmadMiraz1
 [instagram]: https://instagram.com/ahmad_miraz
-[linkedin]: https://www.linkedin.com/in/ahmad-miraz-26b2541a9/
+[linkedin]: https://www.linkedin.com/in/md-miraj-hossain-26b2541a9/
 [webdevplaylist]: https://www.youtube.com
 [jsplaylist]: https://www.youtube.com
 [cssplaylist]: https://www.youtube.com
