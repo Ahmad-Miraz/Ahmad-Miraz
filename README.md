@@ -1,10 +1,10 @@
-### Hi there, I'm Md Miraj Hossain - aka [Ahmad-Miraz] [ahmad-miraz.github.io] 👋
+### Hi there, I'm Md Miraj Hossain - aka [Ahmad-Miraz] [https://ahmad-miraz.github.io/portfolio/] 👋
 
 ## I'm a Computer Science Graduate, A MERN Stack Web Developer!!
 - 🔭 I am developing my skills on Software Engineering to become a highly qualified Software Engineer 😎
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators 👀
-- 🥅 2022 Goals: Contribute more to Open Source projects 🙌
+- 🥅 2023 Goals: Contribute more to Open Source projects 🙌
 - ⚡ Fun fact: I love to play outdoor games like Cricket,Football🥎
 ### Connect with me:
 [<img align="left" alt="Ahmad Miraz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
