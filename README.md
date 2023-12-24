@@ -1,6 +1,6 @@
 ### Hi there, I'm Md Miraj Hossain - aka [Ahmad-Miraz] [https://ahmad-miraz.github.io/portfolio/] 👋
 
-## I'm a Computer Science Graduate, A MERN Stack Web Developer!!
+## I'm a Computer Science Graduate, A Mobile Application Developer!!
 - 🔭 I am developing my skills on Software Engineering to become a highly qualified Software Engineer 😎
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators 👀
