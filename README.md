@@ -13,8 +13,8 @@
 [<img align="left" alt="Ahmad Miraz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 ### Languages and Tools:
-[<img align="left" alt="Dart" width="26px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcExAv/pAw/5Bxf9AxP9AufMth8IZi8sAT5QTZ6gdb60svPwDWJwBVpgBV5sBVpocjcwrt/YmjcvKxrKWAAAAE3RSTlMAkef/n/+Q/v/n/////9tv//8VPCd06gAAAIJJREFUeAF1y8cNwDAQxMBzzrH/Xp1NaIUTvwOalOVFaRpU3OUpUlVClSpJtG5arQuwH5p2DJtmbOmHYVUd0akftpQuN6Z0fNDX5UNXxwc9nWwBUdBmEAVtBFH3RMEdREGzHUTBS0EUvBREwUvFLm1a0NXpyj4tooxUQV9BX0E0j/EEkoUY5puQnzUAAAAASUVORK5CYII=" />]
-[<img align="left" alt="Flutter" width="26px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcExLxPlUxfhUxfg7vfdQxPhUxfhUxfhUxfhUxfhJtutGsedUxfhTxPcuuPZUxfgpt/cwufcWerMAVZoptvYVcKMARIABV5sUYIcAUZgBV5sBV5sBV5sBV5sBV5vAJQlaAAAAH3RSTlMAIZeecxfv/+P2DAbfg//V////4/H6////GpmXlp5xcmSV5wAAAI9JREFUeAGt0cURxEAQBEExM7P/Xgpac9zHqm/GLCrfpGpIN4iZlo0ck5gr5pE1T+YTkzUD77s1zV/X5HbYHfw972xXaxq2u2WHN4g1V0NisizWpIZZWHRvyIw3S5KIGFoNyg2lzBR1xyxXWGaxWlnVuUdni6Sp6vqZrnNbfOUWxmahuWhLteuHtXEidvufC9qRDDdymPQJAAAAAElFTkSuQmCC" />]
+[<img align="left" alt="Dart" width="26px" src="https://drive.google.com/file/d/1bX69sqAnBggneBPYyZlwrZ5Qs6M85sol/view?usp=sharing" />]
+[<img align="left" alt="Flutter" width="26px" src="https://drive.google.com/file/d/15jIFef7ZIdHPWgDOZ5Sl8US4wjkz9NHs/view?usp=drive_link" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
