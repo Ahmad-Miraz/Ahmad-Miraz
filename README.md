@@ -13,8 +13,8 @@
 [<img align="left" alt="Ahmad Miraz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 ### Languages and Tools:
-[<img align="left" alt="Dart" width="26px" src="https://drive.google.com/file/d/1bX69sqAnBggneBPYyZlwrZ5Qs6M85sol/view?usp=sharing" />]
-[<img align="left" alt="Flutter" width="26px" src="https://drive.google.com/file/d/15jIFef7ZIdHPWgDOZ5Sl8US4wjkz9NHs/view?usp=drive_link" />]
+[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-[My Portfolio]: https:https://ahmad-miraz.github.io/
+[My Portfolio]: https://ahmad-miraz.github.io/portfolio/
 [facebook]:https://www.facebook.com/ahmad.miraz.121/
 [twitter]: https://twitter.com/AhmadMiraz1
 [instagram]: https://instagram.com/ahmad_miraz
